@@ -22,7 +22,7 @@
 
 //#define BUTTON_PIN_BITMASK 0x200000000 // 2^33 in hex
 
-/*-****************************** WIFI **************************************/
+/******************************* WIFI **************************************/
 
 #define WLAN_SSID       "MY WIFI 2C50"//"D410"//"2.4 MegaPlupp"//"MY WIFI 2C50"//"TN_private_4A7E34"//"Axels Moto"//"Axels UMI"//
 #define WLAN_PASS       "MYWIFI5780"//"Axel2018"//"MYWIFI5780"//"Axel2018"//"azazaz13"//"9JWEKJYMC3T7W"//"MYWIFI5780"//"azazaz13"//"9JWEKJYMC3T7W"//
