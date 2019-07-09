@@ -1,2 +1,2 @@
 # weatherstation
-esp32 RTC Deep Sleep (constant) Rain MQTT
+esp32 Huzzah32 RTC Deep Sleep (constant) Rain MQTT
